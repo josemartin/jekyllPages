@@ -1,0 +1,5 @@
+name: Jekyll pages trial
+markdown: redcarpet
+pygments: true
+baseurl /jekyllPages
+
